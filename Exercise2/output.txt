@@ -1,0 +1,2 @@
+Minimum found at x = 1.000005
+Minimum value f(x) = 2.000000
