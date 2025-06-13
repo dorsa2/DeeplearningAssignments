@@ -1,2 +1,2 @@
-BCE Loss between original and reconstructed RGB: 0.6553
-Images saved and zipped into 'image_conversion_results.zip'
+Row sum execution time: 0.000958 seconds
+Column sum execution time: 0.000903 seconds
