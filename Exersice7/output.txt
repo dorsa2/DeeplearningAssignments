@@ -1,0 +1,11 @@
+Evaluation Results:
+LogReg_C=0.01: 0.9417
+LogReg_C=0.1: 0.9694
+LogReg_C=1: 0.9722
+LogReg_C=10: 0.9694
+SVM_C=0.1: 0.9472
+SVM_C=1: 0.9806
+SVM_C=10: 0.9806
+RF_n=10: 0.9611
+RF_n=50: 0.9694
+RF_n=100: 0.9722
