@@ -1,0 +1,2 @@
+BCE Loss between original and reconstructed RGB: 0.6553
+Images saved and zipped into 'image_conversion_results.zip'
